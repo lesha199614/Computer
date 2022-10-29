@@ -23,10 +23,12 @@ public class Computer {
     }
 
     public void Info() {
+        System.out.println("System info:");
         System.out.println("Processor: " + processor);
         System.out.println("RAM: " + ram + " Gb");
         System.out.println("HDD: " + hdd + " Tb");
         System.out.println("Resource: " + resource + " cycles");
+        System.out.println("=============================");
     }
 
     public void turnOn() {
