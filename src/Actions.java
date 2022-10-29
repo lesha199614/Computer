@@ -9,6 +9,7 @@ public class Actions {
         int resource = random.nextInt(50) + 1;
         Computer myComputer = new Computer(processor,ram,hdd,resource);
         myComputer.Info();
+
     }
 
 }
