@@ -20,7 +20,7 @@ public class Computer {
         this.isBurnedOut = isBurnedOut;
     }
 
-    public void Info() {
+    private void Info() {
         System.out.println("System info:");
         System.out.println("Processor: " + processor);
         System.out.println("RAM: " + ram + " Gb");
@@ -28,8 +28,11 @@ public class Computer {
         System.out.println("Resource: " + resource + " cycles");
         System.out.println("=============================");
     }
+    public void printInfo(){
+        Info();
+    }
 
-    public void turnOn() {
+    private void turnOn() {
 
         int randomValue = random.nextInt(2);
         System.out.println("Введи число от 0 до 1");
@@ -55,8 +58,11 @@ public class Computer {
             isBurnedOut = true;
         }
     }
+    public void resultTurnOn(){
+        turnOn();
+    }
 
-    public void turnOff() {
+    private void turnOff() {
         int randomValue = random.nextInt(2);
         System.out.println("Введи число от 0 до 1");
         int scannerValue = scanner.nextInt();
@@ -77,5 +83,8 @@ public class Computer {
             System.out.println("================");
             isBurnedOut = true;
         }
+    }
+    public void resultTurnOff(){
+        turnOff();
     }
 }
