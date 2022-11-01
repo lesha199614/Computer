@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da1c3202-d62e-42c8-bd7e-1c8dac5b6291" name="Changes" comment="Another solution">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="da1c3202-d62e-42c8-bd7e-1c8dac5b6291" name="Changes" comment="Modified Access to methods">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Computer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +68,7 @@
       <updated>1667039266661</updated>
       <workItem from="1667039268037" duration="3144000" />
       <workItem from="1667299313069" duration="3726000" />
-      <workItem from="1667310504395" duration="354000" />
+      <workItem from="1667310504395" duration="1668000" />
     </task>
     <task id="LOCAL-00001" summary="1st">
       <created>1667040517003</created>
@@ -136,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667302568653</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Modified Access to methods">
+      <created>1667310876518</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667310876518</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +162,7 @@
     <MESSAGE value="Main" />
     <MESSAGE value="Final changes" />
     <MESSAGE value="Another solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Another solution" />
+    <MESSAGE value="Modified Access to methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified Access to methods" />
   </component>
 </project>

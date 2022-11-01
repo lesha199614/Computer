@@ -3,11 +3,11 @@ import java.util.Scanner;
 
 public class Computer {
     String processor;
-    int ram;
-    int hdd;
-    int resource;
-    boolean isTurnedOn;
-    boolean isBurnedOut;
+    private int ram;
+    private int hdd;
+    private int resource;
+    private boolean isTurnedOn;
+    private boolean isBurnedOut;
     Random random = new Random();
     Scanner scanner = new Scanner(System.in);
 
