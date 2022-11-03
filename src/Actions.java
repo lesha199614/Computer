@@ -12,9 +12,9 @@ public class Actions {
         boolean isTurnedOn = false;
         boolean isBurnedOut = false;
         Computer myComputer = new Computer(processor,ram,hdd,resource,isTurnedOn,isBurnedOut);
-        myComputer.Info();
-        myComputer.turnOn();
-        myComputer.turnOff();
+        myComputer.printInfo();
+        myComputer.resultTurnOn();
+        myComputer.resultTurnOff();
     }
 
 }
