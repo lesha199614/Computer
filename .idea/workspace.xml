@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da1c3202-d62e-42c8-bd7e-1c8dac5b6291" name="Changes" comment="GitIgnore">
+    <list default="true" id="da1c3202-d62e-42c8-bd7e-1c8dac5b6291" name="Changes" comment="Modified Access to methods">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,41 +37,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
-    <configuration name="Computer.Actions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Computer.Actions" />
-      <module name="TeachMeSkills_Vaitsekhouski" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="TeachMeSkills_Vaitsekhouski" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="TeachMeSkills_Vaitsekhouski" />
-      <option name="filePath" />
+    <configuration name="Actions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Actions" />
+      <module name="Computer" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Computer.Actions" />
-        <item itemvalue="Application.Computer.Actions" />
+        <item itemvalue="Application.Actions" />
+        <item itemvalue="Application.Actions" />
       </list>
     </recent_temporary>
   </component>
@@ -84,8 +69,7 @@
       <updated>1667039266661</updated>
       <workItem from="1667039268037" duration="3144000" />
       <workItem from="1667299313069" duration="3726000" />
-      <workItem from="1667310504395" duration="2988000" />
-      <workItem from="1667907697446" duration="86000" />
+      <workItem from="1667310504395" duration="2499000" />
     </task>
     <task id="LOCAL-00001" summary="1st">
       <created>1667040517003</created>
@@ -164,14 +148,7 @@
       <option name="project" value="LOCAL" />
       <updated>1667312994888</updated>
     </task>
-    <task id="LOCAL-00012" summary="GitIgnore">
-      <created>1667315280315</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1667315280315</updated>
-    </task>
-    <option name="localTasksCounter" value="13" />
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +171,6 @@
     <MESSAGE value="Final changes" />
     <MESSAGE value="Another solution" />
     <MESSAGE value="Modified Access to methods" />
-    <MESSAGE value="GitIgnore" />
-    <option name="LAST_COMMIT_MESSAGE" value="GitIgnore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified Access to methods" />
   </component>
 </project>
